@@ -42,7 +42,7 @@ Polyp segmentation in colonoscopy images is essential for the early detection an
 ### Sample DRASU-Net Predictions
 
 <p>
-  <img src="Images/Sample_predictions.jpg" width="700"/>
+  <img src="Images/Sample_predictions.jpg" width="400"/>
 </p>
 
 
