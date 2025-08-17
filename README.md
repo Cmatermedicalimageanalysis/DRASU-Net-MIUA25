@@ -46,7 +46,7 @@ Polyp segmentation in colonoscopy images is essential for the early detection an
 </p>
 
 
-## Citation: ( Will be updated )
+## Citation: 
 Please do cite our paper in case you find it useful for your research.<br/>
 If you're using this article or code in your research or applications, please consider citing using this BibTeX:<br/>
 ```
